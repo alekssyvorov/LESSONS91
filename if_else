@@ -1,0 +1,78 @@
+# Завдання 1
+
+# Користувач вводить із клавіатури два числа. 
+# Необхідно знайти суму чисел, різницю чисел, добуток чисел. 
+# Результат обчислень вивести на екран.
+
+# number_1 = float(input("Input number one "))
+# number_2 = float(input("Input number two "))
+
+# summa = number_1 + number_2
+# dif = number_1 - number_2
+# mult = number_1 * number_2
+
+# print("Summa = ", summa, "Difference = ", dif, "Multiplay = ", mult)
+# print("Сума = ", summa,
+#      "Difference = ", dif,
+#      "Multiplay = ", mult)
+
+# Завдання 2
+
+# Користувач вводить із клавіатури два числа. Перше число — це значення, друге число — відсоток, який необхідно вирахувати. Наприклад, ми ввели з клавіатури 50 і 10. Потрібно вивести на екран 10 відсотків від 50. Результат: 5.
+
+# +++
+# ---
+# *
+# /
+# **
+
+# % - пошуку остатку
+# // - цiлочисленого дiлення
+
+# int
+# float
+# str
+
+# bool - True, False
+
+# print(5 == 5)
+# print(5 < 10)
+# print(10 > 20)
+
+# print()
+# input()
+
+# int()
+# float()
+# str()
+# bool()
+
+# num = "15"
+# print(type(num))
+
+# num = int(num)
+# print(type(num))
+
+# num = float(num)
+# print(type(num))
+
+# num = "15" # string
+# num = int(num)
+# result = num + 15
+# print(result)
+
+# import keyword
+
+# print(keyword.kwlist)
+
+
+
+num_1 = float(input('Num 1 '))
+num_2 = float(input("Num 2 "))
+
+if num_1 > num_2:
+    print("Max = ", num_1)
+else:
+    print('Max', num_2)
+
+

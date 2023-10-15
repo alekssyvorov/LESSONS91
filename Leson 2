@@ -1,0 +1,8 @@
+number = 15
+print(type(number))
+
+money = 50.5
+print(type(money))
+
+name="Oleg"
+print(type(name))
